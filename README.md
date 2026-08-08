@@ -1,10 +1,10 @@
-# Spatial Audio Studio
+# Locus
 
 A Chrome extension for true 3D spatial audio. Position sounds in space with binaural HRTF, draw occluding geometry, animate movement with macros, shape tone with a 10-band EQ, and measure real rooms — all in the browser.
 
 Runs on any device that can run Chrome. Headphones recommended for the full spatial effect; laptop-speaker mode with crosstalk cancellation is also available.
 
-> No versions are currently published on the Chrome Web Store. Load the extension unpacked for now.
+> v1.5currently published on the Chrome Web Store.
 
 ---
 
